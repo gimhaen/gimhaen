@@ -1,5 +1,13 @@
 ### Hi there 👋
+<!-- 움직이는 기술스택 아이콘 -->
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" />
 
+ <h3> 📚 Currently Studying At  </h3>
+  SSAFY 11th
+
+ <h3> 📫 Contact  </h3>
+  snnsprng@naver.com
 <!--
 **gimhaen/gimhaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
