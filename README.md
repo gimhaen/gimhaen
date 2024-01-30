@@ -7,7 +7,7 @@
   SSAFY 11th
 
  <h3> 📫 Contact  </h3>
-  snnsprng@naver.com
+  snnsprng043@gmail.com
 <!--
 **gimhaen/gimhaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
